@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".activity.MenuActivity" >
         </activity>
+        <activity android:name=".activity.Screen1Activity" >
+        </activity>
     </application>
 
 </manifest>

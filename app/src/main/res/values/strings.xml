@@ -3,4 +3,16 @@
     <string name="start_button">Iniciar</string>
     <string name="continue_button">Continuar</string>
     <string name="exit_button">Sair</string>
+    <string name="btnaction1">Continuar</string>
+    <string name="texto1">O ano é 1888; o cenário, Londres, onde, nesta época vivem figuras como Sherlock Holmes e Jack, o Estripador.\n
+        Seu nome é José Carlos Burton. Seu pai era um oficial inglês, mas você nasceu e foi criado no Brasil.\n
+        Oito meses atrás, pouco depois de completar 21 anos, você recebeu uma carta da Inglaterra. Era de uma firma de advocacia, e informava que seu pai havia morrido – deixando como herança um título de Lorde, várias propriedades e uma renda mensal mais que generosa. Entusiasmado, você embarcou no trem à vapor e partiu rumo a uma vida nova na Grã-Bretanha.\n
+        As coisas, no entanto, não funcionaram exatamente como você esperava. O dinheiro estava lá, bem como a mansão as terras e o título (agora você é Lorde Armsby). Só que havia algo mais: o preconceito.\n
+        Os outros membros da alta sociedade londrina logo se puseram a caçoar de seu sotaque, de sua pele queimada de sol, de seu nome latim. Aos poucos você se viu isolado e sem amigos – bem, na verdade havia um amigo: Lorde Godalming, um pintor boêmio e bem-humorado. No últimos meses ele demonstrou ser a única pessoa que realmente não se importa com sua origem, nem com seu sotaque, nem com seu dinheiro. Um amigo de verdade. Agora Lorde Godalming está em apuros, e pede que você vá visita-lo na hora do almoço.\n
+        \n\"Não sei o que faço a noite\", ele diz. \"Eu me sinto adormecer logo que o sol se põe e de manhã acordo nesta mesma sala, mas vestido em trajes de gala, com os pés sujos de barro... É um tipo bizarro de sonambulismo, e está acabando comigo. Passo o dia inteiro fraco e sonolento, e a noite... Oh, os sonhos são terríveis!\"\n
+        Você olha para Godalming: ele está pálido como uma folha de papel, os olhos vermelhos de cansaço emoldurados por olheiras profundas. O pobre homem treme enquanto fala. "Já consultou um médico?\", você pergunta. \"Não quero saber de médicos”, ele responde, sem dar maiores explicações.\n
+        \"É por isso que preciso de sua ajuda. Eu quero saber aonde vou a noite... É preciso, por favor, é necessário que você me siga à noite, veja aonde vou e o que faço. Porque às vezes algumas coisas me aparecem em sonhos... Não gosto nem de pensar nelas...\"\n
+        \"Posso contar com você?\"\n\n
+    </string>
+
 </resources>
