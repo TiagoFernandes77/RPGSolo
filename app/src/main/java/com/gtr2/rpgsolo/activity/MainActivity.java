@@ -16,10 +16,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+	nextScreen();
 
         enableFullScreen();
 
-        GifView gv = new GifView(this, R.raw.grt2);
+        //GifView gv = new GifView(this, R.raw.grt2);
 
         Handler timerHandler = new Handler();
 
@@ -30,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
 
-        setContentView(gv);
+        //setContentView(gv);
 
         if (getIntent().getBooleanExtra("EXIT", false))
             finish();
